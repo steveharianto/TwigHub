@@ -3,6 +3,8 @@
     "private": false,
     "version": "0.0.0",
     "type": "module",
+    
+    "homepage": "https://steveharianto.github.io/TwigHub/",
     "scripts": {
         "dev": "vite",
         "build": "tsc && vite build",
@@ -26,6 +28,5 @@
         "gh-pages": "^6.1.0",
         "typescript": "^5.2.2",
         "vite": "^5.0.8"
-    },
-    "homepage": "https://steveharianto.github.io/TwigHub/"
+    }
 }
